@@ -94,9 +94,14 @@ Pascal for C users
 | tan | Tan | [Math](https://wiki.freepascal.org/index.php?title=Math_unit&action=edit&redlink=1 "Math unit (page does not exist)") |
 | toupper | UpCase | [System](https://wiki.freepascal.org/System_unit "System unit") |
 
+
 **Assignment Operators** 
+
 |Operator C | Operator Pascal | Description | Example|
-| --- | --- | --- | --- |
+| ---       | ---             | ---         | ---    |
+|=          |=                |Simple assignment operator. Assigns values from right side operands to left side operand|C = A + B is equivalent to pascal C:= A + B|
+
+
 
 ### C++
 
