@@ -105,6 +105,8 @@ Pascal for C users
 |*=|Multiply AND assignment operator. It multiplies the right operand with the left operand and assigns the result to the left operand.|C *= A is equivalent to pascal C := C * A|
 |/=|Divide AND assignment operator. It divides the left operand with the right operand and assigns the result to the left operand.|C /= A is equivalent to pascal C := C / A|
 |%=|Modulus AND assignment operator. It takes modulus using two operands and assigns the result to the left operand.|C %= A is equivalent to pascal C := C mod A|
+|&=|Bitwise AND assignment operator.|C &= 2 is equivalent to pascal C := C and 2|
+
 
 ### C++
 
