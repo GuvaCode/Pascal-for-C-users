@@ -107,7 +107,7 @@ Pascal for C users
 |%=|Modulus AND assignment operator. It takes modulus using two operands and assigns the result to the left operand.|C %= A is equivalent to pascal C := C mod A|
 |&=|Bitwise AND assignment operator.|C &= 2 is equivalent to pascal C := C and 2|
 |^=|Bitwise exclusive OR and assignment operator.|C ^= 2 is equivalent to pascal C := C or not 2|
-| |= |Bitwise inclusive OR and assignment operator.| C |= 2 is equivalent to pascal C := C or 2|
+| [|=] |Bitwise inclusive OR and assignment operator.| C |= 2 is equivalent to pascal C := C or 2|
 
 
 ### C++
