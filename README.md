@@ -109,7 +109,7 @@ Pascal for C users
 |^=|Bitwise exclusive OR and assignment operator.|C ^= 2 is equivalent to pascal C := C or not 2|
 |&#124;= |Bitwise inclusive OR and assignment operator.| C &#124;= 2 is equivalent to pascal C := C or 2|
 
-***note: in free pascal you may not convert the following operators (+= , -= , *= , /=)
+***note:*** in free pascal you may not convert the following operators (+= , -= , *= , /=)
 
 
 ### C++
