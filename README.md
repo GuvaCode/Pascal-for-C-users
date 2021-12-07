@@ -102,7 +102,9 @@ Pascal for C users
 |=  |Simple assignment operator. Assigns values from right side operands to left side operand|C = A + B is equivalent to pascal C:= A + B|
 |+=|Add AND assignment operator. It adds the right operand to the left operand and assign the result to the left operand.|C += A is equivalent to pascal C:= C + A
 |-=|Subtract AND assignment operator. It subtracts the right operand from the left operand and assigns the result to the left operand.|C -= A is equivalent to pascal C := C - A|
-|*=|Multiply AND assignment operator. It multiplies the right operand with the left operand and assigns the result to the left operand.|C *= A is equivalent to pascal C := C * A
+|*=|Multiply AND assignment operator. It multiplies the right operand with the left operand and assigns the result to the left operand.|C *= A is equivalent to pascal C := C * A|
+|/=|Divide AND assignment operator. It divides the left operand with the right operand and assigns the result to the left operand.|C /= A is equivalent to pascal C := C / A|
+|%=|Modulus AND assignment operator. It takes modulus using two operands and assigns the result to the left operand.|C %= A is equivalent to pascal C := C mod A|
 
 ### C++
 
