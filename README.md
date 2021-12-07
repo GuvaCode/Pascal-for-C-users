@@ -100,7 +100,7 @@ Pascal for C users
 |Operator C | Description | Example |
 | ---       | ---         | ---     |
 |=  |Simple assignment operator. Assigns values from right side operands to left side operand|C = A + B is equivalent to pascal C:= A + B|
-
+|+=|Add AND assignment operator. It adds the right operand to the left operand and assign the result to the left operand.|C += A is equivalent to pascal C:= C + A
 
 
 ### C++
