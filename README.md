@@ -97,9 +97,9 @@ Pascal for C users
 
 **Assignment Operators** 
 
-|Operator C | Operator Pascal | Description | Example|
-| ---       | ---             | ---         | ---    |
-|=          |=                |Simple assignment operator. Assigns values from right side operands to left side operand|C = A + B is equivalent to pascal C:= A + B|
+|Operator C | Description | Example |
+| ---       | ---         | ---     |
+|=  |Simple assignment operator. Assigns values from right side operands to left side operand|C = A + B is equivalent to pascal C:= A + B|
 
 
 
