@@ -94,8 +94,11 @@ Pascal for C users
 | tan | Tan | [Math](https://wiki.freepascal.org/index.php?title=Math_unit&action=edit&redlink=1 "Math unit (page does not exist)") |
 | toupper | UpCase | [System](https://wiki.freepascal.org/System_unit "System unit") |
 
-### C++
+**Assignment Operators** 
+|Operator C | Operator Pascal | Description | Example|
+| --- | --- | --- | --- |
 
+### C++
 
 | C++ type | [Pascal](https://wiki.freepascal.org/Pascal "Pascal") | Notes |
 | --- | --- | --- |
