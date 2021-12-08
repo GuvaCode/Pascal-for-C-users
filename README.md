@@ -14,6 +14,7 @@ Pascal for C users
 | !   | [Not](https://wiki.freepascal.org/Not "Not") | Logical not |
 | !=  | <>  | [Not equal](https://wiki.freepascal.org/Not_equal "Not equal") |
 | &&  | [And](https://wiki.freepascal.org/And "And") | Logical and |
+|&#124;&#124;|[Xor](https://wiki.freepascal.org/Xor "Xor") | Exclusive or |
 | \|  | [Or](https://wiki.freepascal.org/Or "Or") | Logical or |
 | &   | [And](https://wiki.freepascal.org/And "And") | Bitwise and |
 | \|  | [Or](https://wiki.freepascal.org/Or "Or") | Bitwise or |
