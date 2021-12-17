@@ -31,7 +31,7 @@ Pascal for C users
 | 0b  | [%](https://wiki.freepascal.org/Percent_sign "Percent sign") | prefix for bin-number e.g. %11111111 |
 | &   | [@](https://wiki.freepascal.org/@ "@") | [address operator](https://wiki.freepascal.org/@ "@") |
 | \*  | [ ^ ](https://wiki.freepascal.org/%5E"^") | See [Pointer](https://wiki.freepascal.org/Pointer "Pointer") and [Pointers](https://wiki.freepascal.org/Pointers "Pointers") |
-| ?   |[IfThen](https://en.wikipedia.org/wiki/%3F:#Delphi) | ternary operator.Module math |
+| ?   |[IfThen](https://www.freepascal.org/docs-html/rtl/math/ifthen.html) | Ternary operator. see [Math](https://www.freepascal.org/docs-html/rtl/math/index-5.html) |
 | if() | [If](https://wiki.freepascal.org/If "If") [Then](https://wiki.freepascal.org/Then "Then") |     |
 | if() else | [If](https://wiki.freepascal.org/If "If") [Then](https://wiki.freepascal.org/Then "Then") [Else](https://wiki.freepascal.org/Else "Else") |     |
 | while | [While](https://wiki.freepascal.org/While "While") [Do](https://wiki.freepascal.org/Do "Do") |     |
