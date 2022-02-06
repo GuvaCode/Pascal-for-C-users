@@ -112,6 +112,12 @@ Pascal for C users
 
 ***note:*** in free pascal you may not convert the following operators (+= , -= , *= , /=)
 
+### Escape sequences in C
+
+| Escape sequence | Hex value in ASCII |	Character represented |
+| ---             | ---                | ---                    |
+| \? 	            | 3F                 | Question mark (used to avoid trigraphs)|
+| 
 
 ### C++
 
