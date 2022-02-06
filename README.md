@@ -117,7 +117,21 @@ Pascal for C users
 | Escape sequence | Hex value in ASCII |	Character represented |
 | ---             | ---                | ---                    |
 | \? 	            | 3F                 | Question mark (used to avoid trigraphs)|
-| 
+| \' 	            | 27                 | Apostrophe or single quotation mark|
+| \" 	            | 22 	               | Double quotation mark|
+| \\ 	            | 5C                 | Backslash|
+| \a 	            | 07 	               | Alert (Beep, Bell) (added in C89)|
+| \b 	            | 08 	               | Backspace|
+| \e              | 1B 	               | Escape character|
+| \f 	            | 0C                 | Formfeed Page Break|
+| \n 	            | 0A 	               | Newline (Line Feed); see notes below|
+| \nnn            | any 	             | The byte whose numerical value is given by nnn interpreted as an octal number|
+| \r 	            | 0D 	               | Carriage Return|
+| \t 	            | 09                 | Horizontal Tab|
+| \uhhhh          | none 	             | Unicode code point below 10000 hexadecimal (added in C99)[1]: 26| 
+| \Uhhhhhhhh      | none               | Unicode code point where h is a hexadecimal digit|
+| \v 	            | 0B                 | Vertical Tab|
+| \xhh… 	        | any 	             | The byte whose numerical value is given by hh… interpreted as a hexadecimal number| 
 
 ### C++
 
